@@ -22,45 +22,8 @@ Looking for **Frontend Developer** or **Full Stack Developer** opportunities.
 
 ---
 
-## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React.js  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, MySQL  
-- **Tools:** Git, GitHub, VS Code, Postman  
-- **Programming:** C++, Python  
-
----
-
-## 📚 Certifications
-- 🎓 MERN Stack Training @ DUCAT Education, Noida (Nov 2024 – May 2025)  
-- 🏅 IEEE IDCIoT-2024: Blockchain-based Food Supply Chain (Presented at REVA University, Bengaluru)
-
----
-
-## 🚀 Projects
-
-### 🔹 [Employee Management System](https://ems-kappa-six-78.vercel.app/)  
-📁 [GitHub Repo](https://github.com/AnandKum4r/Employee-Management-System)  
-A role-based React app with separate dashboards for Admin and Employee using localStorage as backend simulation.
-
----
-
-### 🔹 [Password Generator](https://password-generator-pi-wheat.vercel.app/)  
-📁 [GitHub Repo](https://github.com/AnandKum4r/Password-Generator)  
-Built in React.js with toggle features, range sliders, and dynamic password strength controls.
-
----
-
-### 🔹 [Quiz App](https://quiz-app-three-chi-49.vercel.app/)  
-📁 [GitHub Repo](https://github.com/AnandKum4r/Quiz-App)  
-Interactive quiz using HTML, CSS & JS with real-time scoring and dynamic question handling.
-
----
-
-## 🧠 DSA & Problem Solving
-- 🔗 [LeetCode Profile](https://leetcode.com/u/AnandKum4r/)  
-- ✅ Solved 119+ problems using C++  
-- 🏆 Earned 100 Days & 50 Days Streak Badges
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 ---
 
