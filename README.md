@@ -45,6 +45,16 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnandKum4r&show_icons=true&theme=radical" alt="Anand's GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandKum4r&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
 ### 💬 Fun Fact
 
 > “I’m not just learning to code — I’m learning to communicate, collaborate, and create. 🚀”
