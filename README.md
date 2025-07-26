@@ -47,11 +47,14 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnandKum4r&show_icons=true&theme=radical" alt="Anand's GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandKum4r&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=AnandKum4r&show_icons=true&theme=default" alt="Anand's GitHub stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandKum4r&layout=compact&theme=default" alt="Top Languages" /></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
