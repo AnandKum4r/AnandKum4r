@@ -1,5 +1,5 @@
-<h1 align="center">✨ Hi there, I'm Anand Kumar 👋</h1>
-<h3 align="center">MERN Stack Developer </h3>
+<h1 align="center">✨ Hi there, I'm <span style="color:#007acc;">Anand Kumar</span> 👋</h1>
+<h3 align="center">🚀 MERN Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/anandkum4r" target="_blank">
@@ -15,39 +15,42 @@
 
 ---
 
-🌟 A recent **B.Tech IT graduate** with hands-on experience in **MERN Stack development**.  
-Proficient in building responsive web applications using **React.js**, **Node.js**, **Express**, and **MongoDB**.  
-Strong foundation in **C++**, **JavaScript**, and **problem-solving**.  
-Looking for **Frontend Developer** or **Full Stack Developer** opportunities.
+### 🧑‍💻 About Me
+
+- 🎓 Recent **B.Tech IT graduate** passionate about building impactful web applications.  
+- 🛠️ Skilled in **MERN Stack (MongoDB, Express, React, Node.js)** development.  
+- 💡 Strong in **JavaScript**, **C++**, and analytical **problem-solving**.  
+- 🔍 Actively looking for **Frontend Developer** or **Full Stack Developer** roles.
 
 ---
 
-## 🚀 Tech Stack
+### 🚀 Tech Stack
 
-<div align="center" style="margin-bottom: 10px;">
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="45" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="45" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="45" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" style="margin: 10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="45" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" style="margin: 10px;"/>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" />
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" />
 
 </div>
 
 ---
 
-## 💬 Fun Fact
+### 💬 Fun Fact
 
-> “I’m not just learning to code — I’m learning to communicate, collaborate, and create 🚀.”
+> “I’m not just learning to code — I’m learning to communicate, collaborate, and create. 🚀”
 
 ---
 
-⭐ *Thanks for visiting! Don’t forget to ⭐ my repositories and connect with me!*
-
+<p align="center">
+  ⭐️ Thanks for visiting! Don’t forget to star my repositories and connect with me!
+</p>
